@@ -1,7 +1,10 @@
 # CRISP-DM
+
 These notebooks contain walkthroughs on the important steps in the CRISP-DM cycle.
 
-What is the CRISP-DM cycle?
+
+
+### What is the CRISP-DM cycle?
 
 Also known as "cross-industry standard process" for data mining, CRISP-DM is an open standard process model that describes common approaches used by data mining experts. It is the most widely-used analytics model.
 
